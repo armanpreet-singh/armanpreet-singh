@@ -1,16 +1,28 @@
-## Hi there 👋
+👋 About Me
 
-<!--
-**armanpreet-singh/armanpreet-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a B.Tech Computer Science student with a 3-year diploma in CSE.
+I focus on frontend development and problem-solving using C++.
+I enjoy building clean, responsive, real-world projects.
 
-Here are some ideas to get you started:
+🛠 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML5, CSS3
+- JavaScript (ES6)
+- Bootstrap
+- C++
+- Git & GitHub
+
+📂 Projects
+
+🔹 Portfolio Website – HTML, CSS, JS  
+🔹 E-commerce UI – Bootstrap  
+🔹 JavaScript Mini Projects  
+
+🎯 Currently Learning
+
+- Advanced JavaScript
+- Data Structures & Algorithms (C++)
+
+📫 Contact
+
+LinkedIn: https://linkedin.com/in/yourprofile
