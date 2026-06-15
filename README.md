@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Armanpreet Singh<br><br>🎓 3rd Year B.Tech Student<br>💻 Aspiring MERN Stack Developer<br>🌱 Currently learning React, Node.js, Express.js and MongoDB<br>🚀 Currently building Smart Student Management Portal<br>📚 Building projects with JavaScript and improving problem-solving skills
+Hi 👋, I'm Armanpreet Singh<br><br>🎓 3rd Year B.Tech Student<br>💻 Full-Stack Developer in Progress<br>🌱 Currently learning React, Node.js, Express.js and MongoDB<br>🚀 Currently building Smart Student Management Portal<br>📚 Solving DSA in C++
 
 💡 *“Crafting logic and elegance in every line of code.”*
 ---
