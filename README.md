@@ -1,7 +1,7 @@
 # 💫 About Me:          [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/armanpreet-singh-727b903a7) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/fakegod44) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singharmanpreet385@gmail.com) 
 Hi 👋, I'm Armanpreet Singh<br><br>🎓 3rd Year B.Tech Student<br>💻 Full-Stack Developer in Progress<br>🌱 Currently learning React, Node.js, Express.js and MongoDB<br>🚀 Currently building Smart Student Management Portal<br>📚 Solving DSA in C++
 
-💡 *“Crafting logic and elegance in every line of code.”*
+🌊 *“Learning fast, Adapting faster, building better.”*
 ---
 
 <div align="center"><picture>
