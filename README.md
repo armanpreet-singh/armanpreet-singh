@@ -47,7 +47,7 @@ Hi 👋, I'm Armanpreet Singh<br><br>🎓 3rd Year B.Tech Student<br>💻 Full-S
   <img src="https://streak-stats.demolab.com?user=armanpreet-singh&theme=radical&hide_border=false&background=transparent&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB" height="170em"/>
   <img
     src="https://github-readme-stats.shion.dev/api/top-langs/?username=armanpreet-singh&theme=transparent&hide_border=false&layout=compact"
-    width="36%"
+    width="40%"
   />
 </p>
 
