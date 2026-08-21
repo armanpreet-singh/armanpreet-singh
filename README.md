@@ -44,10 +44,10 @@ Hi 👋, I'm Armanpreet Singh<br><br>🎓 3rd Year B.Tech Student<br>💻 Full-S
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 # 📊 GitHub Stats:
 <p align="center">
-<!-- <img
+<img
   src="https://streak-stats.demolab.com?user=armanpreet-singh&theme=radical&hide_border=false&background=transparent"
   height="170"
-/> -->
+/>
 <img
   src="https://github-readme-stats.shion.dev/api/top-langs/?username=armanpreet-singh&theme=radical&bg_color=00000000&hide_border=false&layout=compact"
   width="36.5%"
